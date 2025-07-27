@@ -1,0 +1,9 @@
+2025-07-13T02:17:19.5153888 404 : Not Found
+2025-07-13T02:17:19.5369188 404 : Not Found
+2025-07-13T02:19:36.726844 404 : Not Found
+2025-07-13T02:19:36.7478502 404 : Not Found
+2025-07-13T02:21:53.4067401 404 : Not Found
+2025-07-13T02:21:53.432721 404 : Not Found
+2025-07-13T14:10:15.7370888 401 Unauthorized: "{"timestamp":"2025-07-13T18:10:15.599+00:00","status":401,"error":"Unauthorized","message":"Bad credentials","path":"/login"}"
+2025-07-13T14:11:14.455955 500 Internal Server Error: "{"timestamp":"2025-07-13T18:11:14.441+00:00","status":500,"error":"Internal Server Error","message":"Value must be greater than 0.00","path":"/account/request"}"
+2025-07-13T14:11:34.6123495 401 Unauthorized: "{"timestamp":"2025-07-13T18:11:34.515+00:00","status":401,"error":"Unauthorized","message":"Bad credentials","path":"/login"}"

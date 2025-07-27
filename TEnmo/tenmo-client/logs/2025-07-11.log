@@ -1,0 +1,2 @@
+2025-07-11T10:54:06.8009703 I/O error on POST request for "http://localhost:8080/login": null
+2025-07-11T11:19:18.5061664 401 Unauthorized: "{"timestamp":"2025-07-11T15:19:18.426+00:00","status":401,"error":"Unauthorized","message":"User rosie was not activated","path":"/login"}"
